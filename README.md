@@ -1,2 +1,1 @@
-# Example
-An example greeter plugin
+A plugin to reskin Jagex's default bank filler icons.
